@@ -1,0 +1,4 @@
+# Create your own input dataset
+Hadoop makes data processing easier
+Data analysis with Hadoop and MapReduce
+Hi Keshav! I’m at UNCC, still figuring out and honestly, seeing your Amazon journey as an SDE gave me hope. I’m especially curious how you stayed consistent and pushed through uncertainty early on. Would love to connect and chat if you’re open, I deeply value your story & insights. Thank you.
